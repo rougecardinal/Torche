@@ -3,3 +3,4 @@
 3 Remplacer la phrase :
   Yann n'y arrivera pas aujourd'hui
 4 Commiter les changements, les renvoyer sur github, demander un pull à rougecardinal
+5 On fait le point sur rails
