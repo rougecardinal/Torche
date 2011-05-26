@@ -1,6 +1,6 @@
 1 Forker le projet sur github
 2 Télécharger le projet sur ta machine
 3 Remplacer la phrase :
-	Thomas a tort ! Ha ha ha !
+	Yann a tort ! Ha ha ha !
 4 Commiter les changements, les renvoyer sur github, demander un pull à rougecardinal
 5 On fait le point sur rails
