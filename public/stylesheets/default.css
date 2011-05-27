@@ -60,3 +60,7 @@ a:hover{
 .photo{
 	text-align: center;
 }
+
+.photo .caption{
+	text-align: center;
+}
